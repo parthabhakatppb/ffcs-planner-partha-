@@ -230,7 +230,8 @@ const Index = () => {
                 <p className="font-semibold">Key Features:</p>
                 <ul className="list-disc list-inside ml-4">
                   <li><span className="font-bold text-blue-600">Multi-slot Selection:</span> You can now hold Ctrl/Cmd and click multiple slots to select them simultaneously.</li>
-                  <li><span className="font-bold text-blue-600">Smartphone Multi-selection:</span> On smartphones, long-press a slot to enable multi-selection, then tap other slots to select them.</li>
+                  <li><span className="font-bold text-blue-600">Smartphone Multi-selection:</span> On smartphones, multi-slot-selection is not enabled for now, wait for future updates.</li>
+                  <li><span className="font-bold text-blue-600">RECOMENDED:</span> Use of laptops instead of smartphones for better user experience.</li>
                 </ul>
               </div>
             </CardContent>
